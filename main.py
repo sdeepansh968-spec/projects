@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 WebSentinel - Web Vulnerability Scanner
-Author: [Your Name]
+Author: [DEEPANSH SHARMA]
 Description: A Python-based web vulnerability scanner that checks for common
              security misconfigurations and vulnerabilities in web applications.
 """
