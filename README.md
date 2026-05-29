@@ -31,7 +31,7 @@ This project was built to understand how real-world scanners like **Burp Suite**
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/web-vuln-scanner.git
+git clone https://github.com/sdeepansh968-spec/projects.git
 cd web-vuln-scanner
 
 # 2. Install dependencies
