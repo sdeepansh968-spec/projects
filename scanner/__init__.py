@@ -1,3 +1,0 @@
-"""
-WebSentinel Scanner Modules
-"""
