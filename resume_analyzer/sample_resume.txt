@@ -1,0 +1,42 @@
+Deepansh Sharma
+B.Tech CSE | Noida International University
+deepansh@email.com | linkedin.com/in/deepansh | github.com/deepansh
+
+EDUCATION
+---------
+B.Tech Computer Science & Engineering                           2023 – 2027
+Noida International University, Noida
+
+SKILLS
+------
+Languages:  Python, C, JavaScript, HTML/CSS
+Tools:      Git, VS Code, Burp Suite, Nmap
+Libraries:  BeautifulSoup4, Requests, Flask, React
+Platforms:  Linux (Kali), GitHub
+
+PROJECTS
+--------
+WebSentinel — Vulnerability Scanner
+- Built a Python CLI tool to scan web targets for XSS, SQLi, open redirects
+- Used concurrent.futures for multi-threaded scanning
+- Integrated Shodan and VirusTotal APIs for threat intelligence lookups
+
+AI Resume Analyzer
+- Developed a Python-based resume analysis tool powered by Claude API
+- Implemented ATS scoring, NLP-based skill extraction, and keyword gap detection
+- Generated priority-tagged improvement suggestions via prompt engineering
+- Supported .txt, .tex, and .pdf formats using pdfplumber and FileReader API
+
+IcePro — Ice Cream Plant Management System
+- Flask-based multi-role web app with SQLite backend
+- Roles: Admin, Production Manager, QC, Sales
+
+CERTIFICATIONS & ACHIEVEMENTS
+------------------------------
+- 27+ PortSwigger Web Security Academy Labs (SQLi, XSS, IDOR, Path Traversal)
+- Udemy Ethical Hacking Course
+- HackerRank Python Silver Badge
+
+INTERESTS
+---------
+Cybersecurity, Ethical Hacking, Web Development, Open Source
